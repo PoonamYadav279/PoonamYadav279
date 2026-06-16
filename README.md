@@ -25,10 +25,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### Skills / Proficiency
-- 🐍 **Python** – 70% (HackerRank Silver level – 3⭐)  
-- 🗄️ **SQL** – 45% (HackerRank Bronze level – 2⭐)  
-- 💻 **C** – 40% (HackerRank Bronze level – 2⭐)  
-- 📊 **Excel** – 30% (Learning)  
+)  
 
 🏆 **HackerRank Profile**  
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/poonam_datanaly1)
