@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi there 👋, I'm Poonam Yadav
 
-<!--
-**PoonamYadav279/PoonamYadav279** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👩‍💻 Aspiring Data Analyst turning data into insights  
+- 📊 Love analyzing trends and visualizing data  
+- 💡 Problem solver with Python, SQL & Excel  
+- 🚀 Lifelong learner exploring new tech  
+
+---
+
+## 🛠 Tools & Skills
+
+### Programming & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### Version Control & Collaboration
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Skills / Proficiency
+- 🐍 **Python** – 70% (HackerRank Silver level – 3⭐)  
+- 🗄️ **SQL** – 45% (HackerRank Bronze level – 2⭐)  
+- 💻 **C** – 40% (HackerRank Bronze level – 2⭐)  
+- 📊 **Excel** – 30% (Learning)  
+
+🏆 **HackerRank Profile**  
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/poonam_datanaly1)
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poonamyadav279)
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PoonamYadav279&show_icons=true&theme=radical&cache_seconds=10)
+
+---
+
+## ⚡ Fun Fact
+
+> "Data tells a story — I just help translate it into decisions." 🚀
